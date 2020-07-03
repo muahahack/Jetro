@@ -1,3 +1,11 @@
 html {
   box-sizing: border-box;
 }
+
+body {
+  background-color: #C9C9C9;
+}
+
+header {
+  background-color: red;
+}
